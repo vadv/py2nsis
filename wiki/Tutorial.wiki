@@ -6,7 +6,7 @@ You must specify your Nsis instalation path. In order to do that, go to "Paths" 
 
 ----
 
-== Tutorial ==
+== How To Use ==
 
 Let's begin explaining the Graphic Interface of py2nsis
 <br/>
