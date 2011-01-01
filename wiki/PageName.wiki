@@ -1,3 +1,5 @@
+----
+
 == Configuration ==
 
 You must specify your Nsis instalation path. In order to do that, go to "Paths" in the "Configuration" menu item and select the path to your "makensisw.exe" file. The default location of this file is "C:\Program Files\NSIS\makensisw.exe"
